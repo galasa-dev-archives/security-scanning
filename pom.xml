@@ -21,6 +21,7 @@
 		<maven.build.timestamp.format>yyyyMMddHHmm</maven.build.timestamp.format>
 
 		<unpackBundle>true</unpackBundle>
+		<mike>true</mike>
 		
 	</properties>
 
