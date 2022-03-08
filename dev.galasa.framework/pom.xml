@@ -6,5 +6,10 @@
   <artifactId>dev.galasa.framework</artifactId>
   <version>0.21.0</version>
   <dependencies>
+  	<dependency>
+  		<groupId>commons-collections</groupId>
+  		<artifactId>commons-collections</artifactId>
+  		<version>3.2.1</version>
+  	</dependency>
   </dependencies>
 </project>
