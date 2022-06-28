@@ -1,7 +1,7 @@
   <project>
       <modelVersion>4.0.0</modelVersion>
       <groupId>dev.galasa</groupId>
-      <artifactId>dev.galasa.framework.api.authentication</artifactId>
+      <artifactId>dev.galasa.framework.api.ras</artifactId>
       <version>0.21.0</version>
       <packaging>jar</packaging>
       <parent>
@@ -51,9 +51,9 @@
               <version>0.24.0</version>
           </dependency>
           <dependency>
-              <groupId>com.auth0</groupId>
-              <artifactId>java-jwt</artifactId>
-              <version>3.8.1</version>
+              <groupId>org.apache.commons</groupId>
+              <artifactId>commons-collections4</artifactId>
+              <version>4.4</version>
           </dependency>
       </dependencies>
   </project>
